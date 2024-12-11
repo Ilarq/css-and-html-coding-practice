@@ -1,0 +1,47 @@
+@font-face {
+    font-family: oswald;
+    src: url(fonts/Oswald-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: compacta-bold;
+    src: url(fonts/Compacta\ Bold.otf);
+}
+
+
+
+h1{
+    font-family: compacta-bold, arial;
+    font-size: 40px;
+    border: 2px solid;
+    box-shadow: 3px 3px 10px;
+    float: right;
+    margin-right: 100px;
+    display: flow-root;
+    padding: 5px;
+}
+
+.copyrightSection {
+    padding: 5px;
+    font-size: 40px;
+    background-color: rgb(255, 235, 125);
+    border: 2px solid;
+}
+
+#robloxTitleLogo{
+    margin-left: 120px;
+}
+
+#robloxThumbnailLogo{
+    margin-left: 10px;
+    float: right;
+}
+
+p{
+    background-color: hsl(0, 100%, 93%);
+    font-size: 40px;
+    font-family: oswald, arial;
+    margin-left: 3px;
+    border: 3px solid;
+    padding: 5px;
+    display: flow-root;
+}
